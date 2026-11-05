@@ -1,0 +1,5 @@
+/* SITE */
+Site: jointbrex.onrender.com
+Contact: hello@jointbrex.com
+Last update: 2026/10/12
+Components: hand-written HTML, CSS and JavaScript, no frameworks
